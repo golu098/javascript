@@ -22,6 +22,10 @@ console.log(typeof(a));
 let x=String(a);
 console.log(typeof x);
 console.log(x);
+object
+VM209:3 object
+VM209:5 string
+VM209:6 null
 */
 //4th
 // let a=undefined;
@@ -30,6 +34,10 @@ console.log(x);
 // let x=Number(a);
 // console.log(typeof x);
 // console.log(x);
+undefined
+VM226:3 undefined
+VM226:5 number
+VM226:6 NaN
 
 /*
 let a=undefined;
